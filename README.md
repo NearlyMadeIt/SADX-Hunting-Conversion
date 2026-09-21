@@ -7,8 +7,8 @@ SA2 Mod Manager. Keep every file inside the mod folder. For a fresh installation
 replacing an older version, move the old mod folder elsewhere first and enable
 only one copy. Existing installations can use the manager's mod update feature.
 
-CONTENT
+Content:
 Casinopolis, Speed Highway, Lost World, Red Mountain and Sky Deck for Knuckles.
 
-SETTINGS
+Settings:
 Baked terrain shading (SADX's native shading) can be switched on or off in the mod's configuration.
