@@ -1,5 +1,5 @@
 SADX Hunting Conversion
-By Near and Kryptic (with help from AI)
+by Near and Kryptic (with help from AI)
 
 Installation:
 Extract the "SADX Hunting Conversion" folder into your SA2 mods folder and enable it in
