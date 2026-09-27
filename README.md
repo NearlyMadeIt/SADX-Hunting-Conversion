@@ -1,4 +1,4 @@
-SADX Hunting Conversion v5.0
+SADX Hunting Conversion
 By Near and Kryptic (with help from AI)
 
 Installation:
